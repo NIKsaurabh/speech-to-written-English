@@ -1,0 +1,8 @@
+README.md
+setup.py
+spokenToWrittenEng/__init__.py
+spokenToWrittenEng/myfunctions.py
+spokenToWrittenEng.egg-info/PKG-INFO
+spokenToWrittenEng.egg-info/SOURCES.txt
+spokenToWrittenEng.egg-info/dependency_links.txt
+spokenToWrittenEng.egg-info/top_level.txt

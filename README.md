@@ -16,3 +16,11 @@ Path to code is **spokenToWrittenEng/spokenToWrittenEng/myfunctions.py**
 * Once installed import it using:<br>
     \> import spokenToWrittenEng<br>
     \> from spokenToWrittenEng import myfunctions
+# REST API
+REST API folder contains 'app.py' file.
+I have used 'streamlit' to create this app.
+### How to run this app
+* Download app.py file from REST API folder.
+* Open terminal and locate where app.py is present.
+* Run "streamlit run app.py" on terminal.
+* It will open a page in browser.

@@ -20,7 +20,7 @@ Path to code is **spokenToWrittenEng/spokenToWrittenEng/myfunctions.py**
 **Code is present in 'spokenToWrittenEng/spokenToWrittenEng/myfunctions.py' path**
 
 # REST API
-REST API folder contains 'app.py' file.
+REST API folder contains **'app.py' (contains code)** file.
 I have used 'streamlit' to create this app.
 ### How to run this app (Linux(Ubuntu))
 * Download app.py file from REST API folder.
